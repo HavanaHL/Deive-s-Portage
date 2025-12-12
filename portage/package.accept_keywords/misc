@@ -1,0 +1,5 @@
+app-misc/zellij ~amd64
+media-fonts/nerdfonts ~amd64
+app-misc/ufetch ~amd64
+games-util/heroic-bin ~amd64
+app-admin/bitwarden-desktop-bin ~amd64

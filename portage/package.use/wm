@@ -1,0 +1,9 @@
+gui-apps/waybar pipewire pulseaudio libinput tray 
+gui-wm/wayfire X dbus gles3 
+gui-libs/wlroots x11-backend
+gui-apps/swaybg gdk-pixbuf
+# required by xfce-base/xfce4-panel-4.20.5::gentoo[dbusmenu]
+# required by xfce-base/thunar-4.20.5::gentoo[trash-panel-plugin]
+# required by xfce-base/thunar-volman-4.20.0::gentoo
+# required by thunar-volman (argument)
+>=dev-libs/libdbusmenu-16.04.0-r4 gtk3

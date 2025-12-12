@@ -1,0 +1,7 @@
+media-video/pipewire sound-server dbus elogind pipewire-alsa
+media-video/wireplumber elogind
+# required by xfce-base/xfce4-panel-4.20.4::gentoo[dbusmenu]
+# required by xfce-base/thunar-4.20.3::gentoo[trash-panel-plugin]
+# required by xfce-base/thunar-volman-4.20.0::gentoo
+# required by xfce-base/thunar-volman (argument)
+#>=dev-libs/libdbusmenu-16.04.0-r3 gtk3

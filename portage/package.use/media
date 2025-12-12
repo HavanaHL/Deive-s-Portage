@@ -1,0 +1,5 @@
+media-video/ffmpeg drm lame opengl pulseaudio vaapi x264 opus
+media-video/mpv wayland -vulkan pipewire vaapi
+media-sound/strawberry discord dbus 
+media-libs/babl introspection
+media-libs/gegl introspection

@@ -1,0 +1,2 @@
+dev-lang/rust-bin rust-analyzer rust-src 
+app-editors/emacs gui gtk -X tree-sitter 

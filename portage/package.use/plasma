@@ -1,0 +1,10 @@
+kde-plasma/kwin gles2-only lock screencast
+kde-plasma/kwin-x11 lock
+sys-libs/zlib minizip
+kde-plasma/plasma-desktop -webengine screencast 
+kde-plasma/plasma-meta -kwallet -grub wallpapers -webengine -oxygen-theme -sdk -thunderbolt
+kde-apps/dolphin -semantic-desktop
+dev-qt/qtgui eglfs -accessibility egl
+kde-plasma/* -debug
+kde-framework/* -debug
+dev-qt/* -debug

@@ -1,0 +1,4 @@
+media-gfx/gimp ~amd64 
+# Abaixo são depedencias
+media-libs/babl ~amd64
+media-libs/gegl ~amd64

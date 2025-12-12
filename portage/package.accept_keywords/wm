@@ -1,0 +1,8 @@
+# WM's
+<gui-wm/mangowc-9999 ~amd64
+	gui-libs/scenefx ~amd64
+
+# Utils
+gui-apps/fuzzel ~amd64
+# required by hydralauncher-bin (argument)
+=games-util/hydralauncher-bin-3.7.5 ~amd64

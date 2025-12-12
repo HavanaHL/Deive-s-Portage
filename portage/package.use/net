@@ -1,0 +1,2 @@
+net-misc/networkmanager -gtk-doc -modemmanager -ppp nss iwd
+www-client/vivaldi ffmpeg-chromium gtk proprietary-codec widevine -qt6

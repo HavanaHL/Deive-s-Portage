@@ -1,0 +1,5 @@
+media-fonts/nerdfonts victormono dejavusansmono hack droidsansmono ubuntu liberationmono adwaitamono cascadiamono firacode jetbrainsmono monaspace overpass 
+# dev-libs/libdbusmenu gtk3
+# inkscape
+#	 dev-python/pillow webp
+dev-qt/qtwidgets gtk

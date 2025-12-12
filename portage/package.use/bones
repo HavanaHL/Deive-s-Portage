@@ -1,0 +1,8 @@
+sys-kernel/installkernel grub dracut refind
+	sys-boot/grub -themes nls
+app-admin/doas persist
+sys-app/busybox savedconfig
+app-alternatives/sh bash 
+sys-boot/refind btrfs
+dev-qt/qtbase cups 
+x11-base/xorg-server elogind udev xorg  

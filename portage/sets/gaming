@@ -1,0 +1,18 @@
+# Bibliotecas SDL
+media-libs/libsdl2
+media-libs/libsdl
+media-libs/sdl2-image
+media-libs/sdl2-mixer
+media-libs/sdl2-ttf
+
+# Gráficos
+media-libs/libglvnd
+
+# Áudio
+media-libs/openal
+
+# Extras 
+games-util/gamemode
+# games-util/mangohud
+# app-emulation/winetricks
+# virtual/wine

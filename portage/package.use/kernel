@@ -1,0 +1,2 @@
+sys-kernel/gentoo-kernel savedconfig ABI_X86="(64)
+virtual/dist-kernel ABI_X86="(64)

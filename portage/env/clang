@@ -1,0 +1,13 @@
+COMMON_FLAGS="-march=silvermont -O2 -pipe"
+MAKEOPTS="-j2 -l3"
+CFLAGS="${COMMON_FLAGS}"
+CXXFLAGS="${COMMON_FLAGS}"
+
+CC="clang"
+CPP="clang-cpp"
+CXX="clang++"
+AR="llvm-ar"
+NM="llvm-nm"
+RANLIB="llvm-ranlib"
+
+FEATURES="ccache"

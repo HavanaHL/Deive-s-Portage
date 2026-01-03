@@ -3,3 +3,5 @@ media-video/mpv wayland -vulkan pipewire vaapi
 media-sound/strawberry discord dbus 
 media-libs/babl introspection
 media-libs/gegl introspection
+app-text/zathura X wayland
+app-text/zathura-meta pdf epub postscript

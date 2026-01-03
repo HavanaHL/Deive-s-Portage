@@ -1,2 +1,5 @@
 net-misc/networkmanager -gtk-doc -modemmanager -ppp nss iwd
 www-client/vivaldi ffmpeg-chromium gtk proprietary-codec widevine -qt6
+dev-qt/qtwebengine bindist
+www-client/qutebrowser adblock widevine 
+	dev-python/pyqt6 webchannel

@@ -1,13 +1,16 @@
 # WM's
 gui-libs/scenefx **
 gui-wm/mangowc **
+gui-wm/swayfx ~amd64
+gui-wm/niri ~amd64
 
 # Utils
 gui-apps/fuzzel ~amd64
 # required by hydralauncher-bin (argument)
 =games-util/hydralauncher-bin-3.7.5 ~amd64
-# required by gui-wm/mangowc-9999::guru
-# required by =gui-wm/mangowc-9999::guru (argument)
-# gui-libs/scenefx-9999 **
- # required by =gui-wm/mangowc-9999::guru (argument)
-# gui-wm/mangowc-9999 **
+# required by www-client/librewolf-146.0.1_p1::librewolf
+# required by www-client/librewolf (argument)
+=dev-libs/nss-3.119 ~amd64
+# required by www-client/librewolf-146.0.1_p1::librewolf
+# required by www-client/librewolf (argument)
+=dev-libs/nspr-4.38.2 ~amd64

@@ -2,6 +2,7 @@
 games-util/steam-launcher desktop-portal dialogs joystick pulseaudio steamruntime -steamvr trayicon wayland
 
 # Pains
+media-libs/vulkan-loader abi_x86_32
 dev-util/directx-headers        abi_x86_32
 virtual/zlib                    abi_x86_32
 app-accessibility/at-spi2-core  abi_x86_32

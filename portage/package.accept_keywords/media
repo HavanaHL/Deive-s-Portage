@@ -2,3 +2,4 @@ media-sound/youtube-music-bin ~amd64
 net-im/telegram-desktop-bin ~amd64
 <media-sound/strawberry-9999 ~amd64
 net-misc/freetube-bin ~amd64
+www-client/librewolf ~amd64

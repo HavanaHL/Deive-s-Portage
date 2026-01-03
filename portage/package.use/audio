@@ -1,0 +1,2 @@
+media-sound/audacious gtk -qt6
+media-plugins/audacious-plugins opengl pipewire wayland scrobbler X ffmpeg flac gtk libnotify -qt6

@@ -1,0 +1,2 @@
+www-client/librewolf dbus hwaccel jumbo-build clang X wayland -telemetry system-* -hardened
+	media-libs/libvpx postproc

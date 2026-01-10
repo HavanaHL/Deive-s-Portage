@@ -1,2 +1,4 @@
 sys-kernel/gentoo-kernel savedconfig ABI_X86="(64)
 virtual/dist-kernel ABI_X86="(64)
+sys-kernel/cachyos-sources -* bore hugepage_madvise hz_ticks_300 llvm-lto-thin msilvermont preempt_voluntary bbr3 tickrate_perodic
+	dev-util/perf libpfm 

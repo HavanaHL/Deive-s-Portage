@@ -5,3 +5,4 @@ games-util/heroic-bin ~amd64
 app-admin/bitwarden-desktop-bin ~amd64
 app-text/tldr ~amd64
 app-admin/bitwarden-cli-bin ~amd64
+x11-themes/kvantum ~amd64

@@ -5,3 +5,4 @@ media-fonts/nerdfonts victormono dejavusansmono hack droidsansmono ubuntu libera
 dev-qt/qtwidgets gtk
 x11-themes/kvantum qt5 kde
 x11-misc/gammastep appindicator geoclue gtk nls 
+dev-qt/qtwebengine jumbo-build

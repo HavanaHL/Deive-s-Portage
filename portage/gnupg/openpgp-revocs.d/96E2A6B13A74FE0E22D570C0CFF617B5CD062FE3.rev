@@ -1,0 +1,35 @@
+This is a revocation certificate for the OpenPGP key:
+
+pub   rsa3072 2025-11-24 [SCEAR]
+      96E2A6B13A74FE0E22D570C0CFF617B5CD062FE3
+uid          Portage Local Trust Key (local signing only) <portage@localhost>
+
+A revocation certificate is a kind of "kill switch" to publicly
+declare that a key shall not anymore be used.  It is not possible
+to retract such a revocation certificate once it has been published.
+
+Use it to revoke this key in case of a compromise or loss of
+the secret key.  However, if the secret key is still accessible,
+it is better to generate a new revocation certificate and give
+a reason for the revocation.  For details see the description of
+of the gpg command "--generate-revocation" in the GnuPG manual.
+
+To avoid an accidental use of this file, a colon has been inserted
+before the 5 dashes below.  Remove this colon with a text editor
+before importing and publishing this revocation certificate.
+
+:-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: This is a revocation certificate
+
+iQG2BCABCAAgFiEEluKmsTp0/g4i1XDAz/YXtc0GL+MFAmkkbhUCHQAACgkQz/YX
+tc0GL+OHkQv9E/orA9d7Xcyuws8fmh7DMUapWbGDQAwP/r5vfDABZ79nt14c2piH
+dEj09dEOLMqMo8m2I2xAs4Og3qsZfoPRUz71T9NIzqqsKWlkeH68+yJLJVglAxLT
+NCL4aVPBKJeQviu55hLvuNGx4muG6mQI1i9RpVbK+24qbUKjUKJLoTFQn2lxqbPh
+50kFRysz9QF43j5mBQMXUiFiOE+8E3DBwLMALkdKvAgM3RlrcLbMvFoPe0ENLSDu
+NTY1Js0E4Fj94iN0WOLvFAHCNElKN5oSQhcmWzODdwwn+sN5HNCWcaejZc/182ZQ
+Ymb5KIc9GPboEdtZCMX29SzZK609MHqPESHzzn7YSu+vUsZJsPhqmN09oIMwrGq0
+Wz4PA0ZIsZtuR3ZCjVL6divAJagBZSA3iQPiqb9i7f7z8J0BF2LtP5M0bZhNG7OD
+d+CV31Z6hF33lVOqlCCFjhds/tb8ZZmpblN57HmbxikUs2TXIR0TtSw0aOpVSqIT
+ZCZ+DNSWdjRP
+=DcC6
+-----END PGP PUBLIC KEY BLOCK-----
